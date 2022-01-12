@@ -1,0 +1,12 @@
+TESTFILE1
+file
+sddass
+"
+
+\"
+
+"hello"
+
+'hi'
+
+o'connol

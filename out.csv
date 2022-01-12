@@ -1,0 +1,25 @@
+foo,4,"contains ""quotes and, stuff","TESTFILE1
+file
+sddass
+""
+
+\""
+
+""hello""
+
+'hi'
+
+o'connol
+","TESTFILE2
+file
+sddass,
+""
+
+\""
+
+""hello""
+
+'hi'
+
+o'connol
+"
